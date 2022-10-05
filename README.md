@@ -8,5 +8,5 @@ Alexis Jennings' portfolio for CS 4395.
 [☆](Homework2.pdf)
 ## Word Guessing Game
 [☆](word_guessing_game.py)
-## WordNet
-[☆](wordnet_assignment.pdf)
+## N-Grams
+[Program 1](/Ngrams_Assignment/program_1.py) | [Program 2](/Ngrams_Assignment/program_2.py) | [Narrative](ngrams_narrtive.pdf)
