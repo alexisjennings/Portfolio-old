@@ -10,3 +10,5 @@ Alexis Jennings' portfolio for CS 4395.
 [☆](word_guessing_game.py)
 ## N-Grams
 [Program 1](/Ngrams_Assignment/program_1.py) | [Program 2](/Ngrams_Assignment/program_2.py) | [Narrative](ngrams_narrtive.pdf)
+## Web Crawler
+[☆](/Web_Crawler_Assignment/web_crawler.py) | [Report](/Web_Crawler_Assignment/report.pdf)
