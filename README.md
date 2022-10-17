@@ -12,3 +12,5 @@ Alexis Jennings' portfolio for CS 4395.
 [Program 1](/Ngrams_Assignment/program_1.py) | [Program 2](/Ngrams_Assignment/program_2.py) | [Narrative](ngrams_narrtive.pdf)
 ## Web Crawler
 [☆](/Web_Crawler_Assignment/web_crawler.py) | [Report](/Web_Crawler_Assignment/report.pdf)
+## Sentence Parsing
+[Summary](/Sentence_Parsing/sentence_parser_summary.pdf) | [Parser Drawings](/Sentence_Parsing/hand_drawn_parsing.pdf)
