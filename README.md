@@ -14,3 +14,7 @@ Alexis Jennings' portfolio for CS 4395.
 [☆](/Web_Crawler_Assignment/web_crawler.py) | [Report](/Web_Crawler_Assignment/report.pdf)
 ## Sentence Parsing
 [Summary](/Sentence_Parsing/sentence_parser_summary.pdf) | [Parser Drawings](/Sentence_Parsing/hand_drawn_parsing.pdf)
+## Author Attribution
+[☆](author_attribution.pdf)
+## ACL Paper Summary
+[☆](acl_paper_summary.pdf)
